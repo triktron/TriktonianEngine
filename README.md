@@ -3,8 +3,8 @@
 ### Demo
 
 
-view:[debug Demo](triktron.github.io/TriktonianEngine/).<br>
-view:[Space Warriors](spacewarriors-triktron.rhcloud.com).
+view:[debug Demo](https://triktron.github.io/TriktonianEngine/).<br>
+view:[Space Warriors](https://spacewarriors-triktron.rhcloud.com).
 
 ### Installation
 Just grab `lib` folder from this repo.
